@@ -11,7 +11,7 @@ public class LinkedMain {
         stringsLinkedList.add("6");
         stringsLinkedList.add("7");
         stringsLinkedList.add("17");
-        stringsLinkedList.add("никита");
+        stringsLinkedList.add("РџСЂРёРІРµС‚ Р’Р»Р°Рґ");
         stringsLinkedList.printAll();
     }
 }
