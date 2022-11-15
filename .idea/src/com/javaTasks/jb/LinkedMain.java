@@ -10,8 +10,8 @@ public class LinkedMain {
         stringsLinkedList.add("5");
         stringsLinkedList.add("6");
         stringsLinkedList.add("7");
-        stringsLinkedList.add("8");
-        stringsLinkedList.add("9");
+        stringsLinkedList.add("17");
+        stringsLinkedList.add("никита");
         stringsLinkedList.printAll();
     }
 }
